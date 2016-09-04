@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD06958F1D796F5D003530FC /* GradientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD06958E1D796F5D003530FC /* GradientViewController.swift */; };
+		FD0695911D7971C9003530FC /* ReplicatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0695901D7971C9003530FC /* ReplicatorViewController.swift */; };
+		FD62452A1D7C1AA60059F0B9 /* EmitterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD6245291D7C1AA60059F0B9 /* EmitterViewController.swift */; };
 		FDA033CC1D780B9600468B03 /* ShapeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA033CB1D780B9600468B03 /* ShapeViewController.swift */; };
 		FDA033CE1D78223500468B03 /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA033CD1D78223500468B03 /* TextViewController.swift */; };
 		FDA033D01D782D7600468B03 /* TransformViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA033CF1D782D7600468B03 /* TransformViewController.swift */; };
@@ -18,6 +21,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD06958E1D796F5D003530FC /* GradientViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientViewController.swift; sourceTree = "<group>"; };
+		FD0695901D7971C9003530FC /* ReplicatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReplicatorViewController.swift; sourceTree = "<group>"; };
+		FD6245291D7C1AA60059F0B9 /* EmitterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmitterViewController.swift; sourceTree = "<group>"; };
 		FDA033CB1D780B9600468B03 /* ShapeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapeViewController.swift; sourceTree = "<group>"; };
 		FDA033CD1D78223500468B03 /* TextViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewController.swift; sourceTree = "<group>"; };
 		FDA033CF1D782D7600468B03 /* TransformViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransformViewController.swift; sourceTree = "<group>"; };
@@ -65,6 +71,9 @@
 				FDA033CB1D780B9600468B03 /* ShapeViewController.swift */,
 				FDA033CD1D78223500468B03 /* TextViewController.swift */,
 				FDA033CF1D782D7600468B03 /* TransformViewController.swift */,
+				FD06958E1D796F5D003530FC /* GradientViewController.swift */,
+				FD0695901D7971C9003530FC /* ReplicatorViewController.swift */,
+				FD6245291D7C1AA60059F0B9 /* EmitterViewController.swift */,
 				FDE1B7F41D51CC2000667438 /* Assets.xcassets */,
 				FDE1B7F11D51CC2000667438 /* Main.storyboard */,
 				FDE1B7F61D51CC2000667438 /* LaunchScreen.storyboard */,
@@ -146,9 +155,12 @@
 			files = (
 				FDA033D01D782D7600468B03 /* TransformViewController.swift in Sources */,
 				FDE1B7F01D51CC2000667438 /* ViewController.swift in Sources */,
+				FD0695911D7971C9003530FC /* ReplicatorViewController.swift in Sources */,
+				FD06958F1D796F5D003530FC /* GradientViewController.swift in Sources */,
 				FDA033CC1D780B9600468B03 /* ShapeViewController.swift in Sources */,
 				FDE1B7EE1D51CC2000667438 /* AppDelegate.swift in Sources */,
 				FDA033CE1D78223500468B03 /* TextViewController.swift in Sources */,
+				FD62452A1D7C1AA60059F0B9 /* EmitterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
